@@ -1,14 +1,17 @@
 {
   "name": "learnrest",
   "version": "1.0.0",
-  "description": "",
+  "description": "learning rest",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "I.U",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mongoose": "^4.7.6"
   }
 }
